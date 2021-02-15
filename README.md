@@ -17,7 +17,7 @@ I am a devops engineer who is passionate about stuff in the cloud-native monitor
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=billykwooten&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=billykwooten&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=billykwooten&hide=css,java,javascript,html&theme=tokyonight">
 </p>
 
 </details>
