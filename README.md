@@ -26,6 +26,4 @@ I am a devops engineer who is passionate about stuff in the cloud-native monitor
 
 <p align = "center">
  <b>Show some love by starring and supporting my projects!</b>
- <br><br>
- <img src="http://views.whatilearened.today/views/github/billykwooten/views.svg"/>
 </p>
