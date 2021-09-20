@@ -1,7 +1,7 @@
 <a href="https://twitter.com/billykwooten" target="_blank" rel="nofollow"><img align="right" alt="Kyle's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/billykwooten" target="_blank" rel="nofollow"><img align="right" alt="Kyle's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/billykwooten" target="_blank" rel="nofollow"><img align="right" alt="Kyle's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ## Hi 👋 I am Kyle! 
-I am a devops engineer who is passionate about stuff in the cloud-native monitoring space as well as microservice development. A few techs that I enjoy working in are Go, Python, Prometheus, Kubernetes, K3S, and GCP.
+I am a devops engineer who is passionate about stuff in the cloud-native monitoring space as well as microservice development. A few techs that I enjoy working in are Go, Python, Prometheus, Kubernetes, GCP, among other CNCF-related technologies.
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in microservice development, CNCF projects, metric monitoring and containerization.
 - 😀 I’m currently learning more advanced concepts in Go, Python, and Rust.
